@@ -1,6 +1,6 @@
 # SC_wk1_mission
 
-##Impact of AI on society
+## Impact of AI on society
 
 Artificial intelligence (AI) is rapidly weaving its way into the fabric of society, bringing about transformative changes across various sectors. In healthcare, AI algorithms are enhancing diagnostics, personalizing treatments, and even predicting outbreaks, promising a future of more efficient and effective care. The education sector is also experiencing an AI revolution, with personalized learning platforms and intelligent tutoring systems adapting to individual student needs, potentially democratizing access to quality education.   
 
